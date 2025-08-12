@@ -7,7 +7,7 @@
 
 I'm a passionate Full‑Stack Developer with a strong foundation in web development, AI‑driven applications, and software engineering. I’m currently pursuing an Advanced Diploma in **Computer Programming & Analysis** at **Seneca Polytechnic College**, where I’m sharpening my skills in **AI**, **system design**, and **full‑stack** development.
 
-- 🔧 **Specialty:** TypeScript, Next.js, Python, MongoDB  
+- 🔧 **Specialty:** HTML, CSS, C, C++, TypeScript, Next.js, Python, MongoDB  
 - 🌱 **Learning:** AI/ML, Cloud Computing, DevOps  
 - 🌍 I love building impactful projects that solve real‑world problems.  
 - 🚀 Continuous learning, open‑source, and growing as a software engineer keep me energized.
